@@ -8,8 +8,9 @@ This repositorty contains the built files of [Khan/KaTeX](https://github.com/Kha
 `bower install katex-build`
 
 
-## Detail
+## For Repo Maintainers
 
-- katex.min.js was fetched from http://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.2.0/katex.min.js
-- katex.min.css was fetched from http://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.2.0/katex.min.css
-- fonts/ was copied from https://github.com/Khan/KaTeX/tree/master/static/fonts/
+Update this repo to a newer version: `fab update_to:v0.2.0`
+
+For updating detail, please check `fabfile.py`
+
