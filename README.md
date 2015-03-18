@@ -13,3 +13,10 @@ This repositorty contains the built files of [Khan/KaTeX](https://github.com/Kha
 Update this repo to a newer version: `fab update`
 
 For updating detail, please check `fabfile.py`
+
+Update version number in `bower.json`
+
+```bash
+git tag v0.2.0
+git push origin v0.2.0
+```
