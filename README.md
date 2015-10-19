@@ -17,6 +17,6 @@ For updating detail, please check `fabfile.py`
 Update version number in `bower.json`
 
 ```bash
-git tag 0.2.0
-git push origin 0.2.0
+git tag [version]
+git push origin [version]
 ```
